@@ -1,0 +1,15 @@
+Almanya:70
+Italya:88
+Norvec:10
+Kenya:120
+Fas:111
+Ekvator:123
+Izlanda:0
+Ispanya:99
+Letonya:45
+Polonya:66
+Fransa:87
+Romanya:65
+Hirvatistan:78
+Finlandiya:34
+Isvec:23
