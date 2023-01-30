@@ -1,0 +1,7 @@
+Firin: 100
+Bilgisayar: 100
+Bulasik Makinesi: 77
+Mutfak Robotu: 108
+Camasir Makinesi: 100
+Televizyon: 22
+Buzdolabi: 100

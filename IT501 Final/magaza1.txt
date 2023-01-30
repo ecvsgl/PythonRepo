@@ -1,0 +1,6 @@
+Buzdolabi: 18
+Firin: 54
+Bilgisayar: 33
+Camasir Makinesi: 47
+Televizyon: 22
+Bulasik Makinesi: 77

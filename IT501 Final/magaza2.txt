@@ -1,0 +1,5 @@
+Firin: 46
+Bilgisayar: 67
+Buzdolabi: 82
+Mutfak Robotu: 108
+Camasir Makinesi: 53
