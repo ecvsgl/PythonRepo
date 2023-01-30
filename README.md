@@ -1,3 +1,3 @@
-# PythonRepo_Private
+# PythonRepo
 
-My works in Python for my "Intro to Programming in Python" course.
+This repo contains my course notes as well as my homeworks for my "Intro. to Python Programming" course in Sabancı University Master's in IT.
